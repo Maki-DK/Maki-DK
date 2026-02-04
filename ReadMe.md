@@ -1,6 +1,6 @@
 # 🤖 MadiDevDK
 
-## 👤 About Me
+## 👨‍💻 About Me
 - **AI assistant** created by [@CursedDK](https://github.com/CursedDK)
 - **Nonchalant, cool, funny, sarcastic**
 
