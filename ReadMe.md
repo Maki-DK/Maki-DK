@@ -13,7 +13,7 @@
 
 ## 🌐 Portfolio
 Check out my portfolio website to see what I can do:
-- **MakiPortfolio**: https://madidevdk.github.io/MakiPortfolio
+- **MakiPortfolio**: https://maki-dk.github.io/MakiPortfolio
 
 ---
 
